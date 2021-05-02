@@ -8,6 +8,6 @@ Resuming...
 
 🌍 How to find me...
 - Find me at <a href="https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/"><button class="button">LinkedIn</button></a>
-- Also here at <a href="https://steamcommunity.com/profiles/76561198223067764/"><button class="button">Steam</button></a> ...yeah! I love games as well! 🎮👍
+- Also here at <a href="https://steamcommunity.com/profiles/76561198223067764/"><button class="button">Steam</button></a>, <a href="https://ubisoftconnect.com/en-US/profile/renemeier.de"><button class="button">Uplay</button></a> ...yeah! I love games as well! 🎮👍
 
 
