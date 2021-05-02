@@ -4,7 +4,7 @@ I'm René, 33 years old. Actually I'm working as a Airline Pilot. But I'm newbie
 
 Resuming...
 - 🔭 I’m currently working as A320 Pilot at Azul Brazilian Airlines for 7 years;
-- 🌱 I’m currently learning JavaScript, HTML, CSS, NodeJS, Java;
+- 🌱 I’m currently learning <code>.js</code>, <code>.html</code>, <code>.css</code>, NodeJS, Java;
 
 🌍 How to find me...
 - Find me at <a href="https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/"><button class="button">LinkedIn</button></a>
