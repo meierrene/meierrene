@@ -1,11 +1,6 @@
 👋 Hey!
 
-I'm fullstack Dev and very excited for programming. My first contact with programming was when I studied Mechanical Engineering with      
-                  <code>.c</code> language in 2008. After several years I've
-                  decided to go deeper for programming. Then I got some skills
-                  from Java, JavaScript, HTML and CSS. And even started some
-                  little projects. Actually I'm searching for homework jobs to
-                  get even better.
+I'm fullstack Dev and very excited for programming. My first contact with programming was when I studied Mechanical Engineering with <code>.c</code> language in 2008. After several years I've decided to go deeper for programming. Then I got some skills from Java, JavaScript, HTML and CSS. And even started some little projects. Actually I'm searching for homework jobs to get even better.
 
 Summarizing...
 - 🌱 I’m currently learning <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.java</code>, <code>NodeJS</code>, <code>MongoDB</code>;
