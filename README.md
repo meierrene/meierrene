@@ -7,26 +7,3 @@ Summarizing...
 - 🖼️ And some frameworks like: <code>Bootstrap</code>, <code>jQuery</code>, <code>Node express</code>, <code>Mongoose</code>, and so on...
 
 🌍 Find me here at: <a href="https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/"><button class="button">LinkedIn</button></a> <a href="https://steamcommunity.com/profiles/76561198223067764/"><button class="button">Steam</button></a> <a href="https://ubisoftconnect.com/en-US/profile/renemeier.de"><button class="button">Uplay</button></a>🎮👍
-
-
-<a target="_blank" href="https://github.com/meierrene">
-                    <ion-icon class="icons" name="logo-github"></ion-icon>
-                  </a>
-                  <a
-                    target="_blank"
-                    href="https://www.linkedin.com/in/renemeierdev/"
-                  >
-                    <ion-icon class="icons" name="logo-linkedin"></ion-icon>
-                  </a>
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/renemeier.de/"
-                  >
-                    <ion-icon class="icons" name="logo-instagram"></ion-icon>
-                  </a>
-                  <a
-                    target="_blank"
-                    href="https://steamcommunity.com/profiles/76561198223067764/"
-                  >
-                    <ion-icon class="icons" name="logo-steam"></ion-icon>
-                  </a>
