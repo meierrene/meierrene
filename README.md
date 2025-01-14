@@ -1,9 +1,61 @@
-👋 Hey!
+# 🌌 Welcome to My GitHub!
 
-I'm fullstack Dev and very excited for programming. My first contact with programming was when I studied Mechanical Engineering with <code>.c</code> language in 2008. After several years I've decided to go deeper for programming. Then I got some skills from Java, JavaScript, HTML and CSS. And even started some little projects. Actually I'm searching for homework jobs to get even better.
+Hi, I'm **René Meier** – a **Fullstack Developer**, **Mechanical Engineer**, and **Airline Pilot** with a passion for technology, innovation, and outer space. My journey began with **C programming** during my Mechanical Engineering studies in 2008, and over the years, I’ve transformed my enthusiasm for problem-solving into a career in software development.
 
-Summarizing...
-- 🌱 I’m currently learning <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.java</code>, <code>NodeJS</code>, <code>MongoDB</code>;
-- 🖼️ And some frameworks like: <code>Bootstrap</code>, <code>jQuery</code>, <code>Node express</code>, <code>ReactJS</code>, and so on...
+---
 
-🌍 Find me here at: <a href="https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/"><button class="button">LinkedIn</button></a> <a href="https://steamcommunity.com/profiles/76561198223067764/"><button class="button">Steam</button></a> <a href="https://ubisoftconnect.com/en-US/profile/renemeier.de"><button class="button">Uplay</button></a>🎮👍
+### ✨ About Me:
+- 🚀 Airline pilot with over 5,000 flight hours and extensive experience in leading teams and problem-solving under pressure.
+- 👨‍💻 Fullstack developer with expertise in **React**, **Node.js**, **MongoDB**, and modern web development frameworks.
+- 🌌 Space enthusiast who incorporates cosmic themes into personal projects, including my [Portfolio](https://portfolio.renemeier.info).
+
+---
+
+### 📚 Current Skills and Technologies:
+- **Languages**: JavaScript, HTML, CSS, Java, C
+- **Frontend**: React.js, Next.js, Vite, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Tools & Platforms**: GitHub, Vercel, Brevo, Mailtrap
+- **Other**: Kaboom.js, game development, API integration
+
+---
+
+### 🌟 Featured Projects:
+#### [MeiersBook](https://meiersbook.renemeier.info)  
+A social media platform for book enthusiasts:
+- **Frontend**: React, React Query, CSS Modules
+- **Backend**: Node.js, Express, MongoDB
+- **Deployed on**: GitHub Pages
+
+#### [The Wild Oasis](https://the-wild-oasis-rm.vercel.app)  
+A comprehensive project with a dual-component system:
+- **Staff-side Webpage**: Built with React.js
+- **Client-side Webpage**: Built with Next.js ([View Repository](https://github.com/meierrene/the-wild-oasis-website))
+- **Deployed on**: Vercel
+
+#### [Super Mario Replica](https://portfolio.renemeier.info)  
+A fun recreation of the classic game using **kaboom.js**.
+
+#### **MeiersGallery**  
+A collection of small JavaScript apps showcasing my learning journey:
+- **Apps Include**: Bankist App, Drumkit, Mapty, Omnifood, Pig Game, and more!
+- **Purpose**: Reflects my dedication to continuous improvement.
+
+---
+
+### 🌍 Let's Connect:
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge)](https://portfolio.renemeier.info)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/)
+- [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&style=for-the-badge)](https://steamcommunity.com/profiles/76561198223067764/)
+- [![Ubisoft Connect](https://img.shields.io/badge/Ubisoft-Profile-white?logo=ubisoft&style=for-the-badge)](https://ubisoftconnect.com/en-US/profile/renemeier.de)
+
+---
+
+### 🎯 Career Goals:
+- 🌟 Seeking opportunities in **Finland**, **Sweden**, or **Denmark**, and open to roles across **Europe**, the **Nordic region**, or **North America**.
+- 🛠️ Eager to contribute to innovative projects and collaborate with forward-thinking teams.
+- 🚀 Constantly learning and pushing the boundaries of what's possible in development.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss exciting opportunities. 😊
