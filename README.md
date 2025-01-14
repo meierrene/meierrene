@@ -26,7 +26,7 @@ A social media platform for book enthusiasts:
 - **Frontend Repository**: [MeiersBook Client](https://github.com/meierrene/meiersbook-client)
 - **Backend Repository**: [MeiersBook API](https://github.com/meierrene/meiersbook-api)
 - **Technologies**: React, React Query, CSS Modules, Node.js, Express, MongoDB
-- **Deployed on**: GitHub Pages
+- **Deployed on**: Vercel and Koyeb.
 
 #### [The Wild Oasis](https://the-wild-oasis-rm.vercel.app)  
 A comprehensive project with a dual-component system:
