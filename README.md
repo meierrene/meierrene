@@ -30,8 +30,9 @@ A social media platform for book enthusiasts:
 
 #### [The Wild Oasis](https://the-wild-oasis-rm.vercel.app)  
 A comprehensive project with a dual-component system:
-- **Staff-side Webpage**: Built with React.js
-- **Client-side Webpage**: Built with Next.js ([View Repository](https://github.com/meierrene/the-wild-oasis-website))
+- **Staff-side Webpage Repository**: [The Wild Oasis Staff Side](https://github.com/meierrene/the-wild-oasis)
+- **Client-side Webpage Repository**: [The Wild Oasis Client Side](https://github.com/meierrene/the-wild-oasis-website)
+- **Technologies**: React.js (Staff), Next.js (Client)
 - **Deployed on**: Vercel
 
 #### [Super Mario Replica](https://gallery.renemeier.info/projects/mario/)  
