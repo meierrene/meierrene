@@ -23,8 +23,9 @@ Hi, I'm **René Meier** – a **Fullstack Developer**, **Mechanical Engineer**, 
 ### 🌟 Featured Projects:
 #### [MeiersBook](https://meiersbook.renemeier.info)  
 A social media platform for book enthusiasts:
-- **Frontend**: React, React Query, CSS Modules
-- **Backend**: Node.js, Express, MongoDB
+- **Frontend Repository**: [MeiersBook Client](https://github.com/meierrene/meiersbook-client)
+- **Backend Repository**: [MeiersBook API](https://github.com/meierrene/meiersbook-api)
+- **Technologies**: React, React Query, CSS Modules, Node.js, Express, MongoDB
 - **Deployed on**: GitHub Pages
 
 #### [The Wild Oasis](https://the-wild-oasis-rm.vercel.app)  
@@ -33,7 +34,7 @@ A comprehensive project with a dual-component system:
 - **Client-side Webpage**: Built with Next.js ([View Repository](https://github.com/meierrene/the-wild-oasis-website))
 - **Deployed on**: Vercel
 
-#### [Super Mario Replica](https://portfolio.renemeier.info)  
+#### [Super Mario Replica](https://gallery.renemeier.info/projects/mario/)  
 A fun recreation of the classic game using **kaboom.js**.
 
 #### **MeiersGallery**  
