@@ -5,7 +5,7 @@ Hi, I'm **René Meier** – a **Fullstack Developer**, **Mechanical Engineer**, 
 ---
 
 ### ✨ About Me:
-- 🚀 Airline pilot with over 5,000 flight hours and extensive experience in leading teams and problem-solving under pressure.
+- 🚀 Airline pilot with over 5,500 flight hours and extensive experience in leading teams and problem-solving under pressure.
 - 👨‍💻 Fullstack developer with expertise in **React**, **Node.js**, **MongoDB**, and modern web development frameworks.
 - 🌌 Space enthusiast who incorporates cosmic themes into personal projects, including my [Portfolio](https://portfolio.renemeier.info).
 
@@ -50,7 +50,7 @@ A collection of small JavaScript apps showcasing my learning journey:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ren%C3%A9-meier-1627b9166/)
 - [![Steam](https://img.shields.io/badge/Steam-Profile-000?logo=steam&style=for-the-badge)](https://steamcommunity.com/profiles/76561198223067764/)
 - [![Ubisoft Connect](https://img.shields.io/badge/Ubisoft-Profile-white?logo=ubisoft&style=for-the-badge)](https://ubisoftconnect.com/en-US/profile/renemeier.de)
-
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/renemeier.de/)
 ---
 
 ### 🎯 Career Goals:
